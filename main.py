@@ -19,6 +19,13 @@ all_pages = {
         st.Page("pages/class3-5.py", title="guess the number", icon="🎲"),
         st.Page("pages/class4-1.py", title="pic", icon="📸"),
         st.Page("pages/class4-2.py", title="shopping", icon="🛒"),
+        st.Page("pages/class5-4.py", title="chat", icon="😊"),
+        st.Page("pages/class5-5.py", title="type chat", icon="😊"),
+        st.Page("pages/class5-6.py", title="AI chat", icon="😊"),
+        st.Page("pages/class5-7.py", title="pic upload", icon="😊"),
+        st.Page("pages/class5-8.py", title="ai pic analysis", icon="😊"),
+        st.Page("pages/class5-9.py", title="website loading", icon="⌛"),
+        st.Page("pages/class5-10.py", title="website loading", icon="⌛"),
     ],
 }
 
